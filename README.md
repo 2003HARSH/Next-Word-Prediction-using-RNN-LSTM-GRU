@@ -22,3 +22,4 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 ## Acknowledgments
 Special thanks to the developers of TensorFlow for the LSTM framework and to the contributors who helped make this project possible.
+
